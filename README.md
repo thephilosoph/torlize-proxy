@@ -121,3 +121,7 @@ HTTP/1.1 200 OK
 ## License
 
 MIT License – see the [LICENSE](LICENSE) file for details.
+
+## Note
+
+This project was inspired by dr Jonas Birch yt video - see <a href="https://youtu.be/yCZJEKAYpF4">video</a> 
