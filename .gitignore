@@ -1,3 +1,12 @@
-
-
+# Build artifacts
+torlize
+torlize.exe
+*.o
+*.obj
 *.exe
+
+# Editor / OS junk
+*~
+*.swp
+.DS_Store
+*.dSYM/
